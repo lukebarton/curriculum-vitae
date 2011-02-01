@@ -79,7 +79,7 @@ Following the launch of the product the business focus moved towards sales and m
 
 **Web Developer for Design57 Limited – St Ives, Cambridgeshire**
 
-_February 2007 – November 2008__
+_February 2007 – November 2008_
 
 Design57 provides web design, software development and hosting services to more than 100 clients.  Their service offerings range from small brochure websites through to fully managed property and product directory applications.
 
