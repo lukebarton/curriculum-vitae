@@ -59,7 +59,7 @@ _July 2009 – June 2010_
 
 i3 Media are a digital agency delivering large volume websites and ecommerce solutions to many high profile clients such as Autoglass and The Ideal Home Show, including websites serving over quarter of a million page views a day, shops taking over £100,000 a year and live auction websites. 
 
-Primarily working on an in-house CMS & Ecommerce platform, which is used to deliver standardised solutions, I work at all levels from database through application to front end with PHP5, Zend Framework, JavaScript and jQuery.
+Primarily working on an in-house CMS & Ecommerce platform, which is used to deliver standardised solutions, I worked at all levels from database through application to front end with PHP5, Zend Framework, JavaScript and jQuery.
 
 ---
 
