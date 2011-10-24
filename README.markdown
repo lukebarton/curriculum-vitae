@@ -45,7 +45,7 @@ As a firm believer in keeping up to date with the software development industry 
 
 _June 2010 – October 2011_
 
-Guardian Star are a start-up aiming to offer a unique web and mobile based support product for those undertaking activities which put them at risk, such as dating or outdoor pursuits such as hiking, climbing or mountain biking. The service requires users to register their itinerary with us so that in the event something untoward occurs; we have the information at our fingertips to provide to the relevant emergency services. As a key part of our service, it contacts the user to ensure their safety after their event.
+Guardian Star are a start-up aiming to offer a unique web and mobile based support product for those undertaking activities which put them at risk, such as dating or outdoor pursuits such as hiking, climbing or mountain biking. The service requires users to register their itinerary with the service so that in the event something untoward occurs; Guardian Star has the information at their fingertips to provide to the relevant emergency services. As a key part of the service, it contacts the user to ensure their safety after their event.
 
 As technical director I was responsible for the technical operations, from web application development to the provision of phone systems. 
 
