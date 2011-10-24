@@ -31,9 +31,13 @@ Career History
 
 _December 2010 – Present_
 
-Evolving delivers web and e-marketing solutions based on their own in-house systems for the likes of J D Wetherspoons, British Sugar, RSPB and David Lloyd Leisure.
+Evolving delivers web and online marketing solutions based on their own in-house systems for the likes of J D Wetherspoons, British Sugar, RSPB and David Lloyd Leisure.
 
 Development centres around, but is not limited to, the typical LAMP stack to deliver popular websites which generate revenue for our clients.
+
+Amongst other technical solutions, I have overseen the transition from Subversion to Git version control systems as well as the adoption of a revised workflow which allows us to robustly deploy changes with reduced effort - enabling Evolving to meet client requirements of up to 20 releases per day with an audit trail.
+
+As a firm believer in keeping up to date with the software development industry I continue to encourage and educate other developers within the company. I enjoy presenting and it is a skill which I jump at the opportunity to practice and improve.
 
 ---
 
