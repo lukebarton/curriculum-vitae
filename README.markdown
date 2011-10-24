@@ -39,13 +39,13 @@ Development centres around, but is not limited to, the typical LAMP stack to del
 
 **Technical Director at Guardian Star Limited – Peterborough**
 
-_June 2010 – Present_
+_June 2010 – October 2011_
 
 Guardian Star are a start-up aiming to offer a unique web and mobile based support product for those undertaking activities which put them at risk, such as dating or outdoor pursuits such as hiking, climbing or mountain biking. The service requires users to register their itinerary with us so that in the event something untoward occurs; we have the information at our fingertips to provide to the relevant emergency services. As a key part of our service, it contacts the user to ensure their safety after their event.
 
-As technical director I am responsible for the entire technical implementation, from application development to the provision of phone systems. 
+As technical director I was responsible for the technical operations, from web application development to the provision of phone systems. 
 
-Technically, the application is built with PHP5 and uses several external APIs; an SMS gateway for two-way SMS, an Email dispatching service for rejection monitoring, a marketing and newsletter management service and PayPal for subscription based payment. It leverages the Zend Framework and currently persists in a primarily MongoDB-based storage.
+Technically, the web application is built with PHP5 and uses several external APIs; an SMS gateway for two-way SMS, an Email dispatching service for rejection monitoring, a marketing and newsletter management service and PayPal for subscription based payment. It leverages the Zend Framework and currently persists in a primarily MongoDB-based storage.
 
 ---
 
