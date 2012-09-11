@@ -1,7 +1,7 @@
 Luke Barton
 ===========
 
-_23 All Saints Way, Sawtry, Huntingdon, Cambs, PE28 5RQ  
+_2 Pipit Rise, Bedford, Bedfordshire, MK41 7JS  
 07931525866  
 luke [at] lukebarton.co.uk_
 
