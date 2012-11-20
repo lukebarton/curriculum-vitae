@@ -31,7 +31,7 @@ Career History
 
 _December 2010 – Present_
 
-Evolving delivers web and online marketing solutions based on their own in-house systems for the likes of J D Wetherspoons, British Sugar, RSPB and David Lloyd Leisure.
+Evolving delivers web and online marketing solutions based on their own in-house systems for the likes of J D Wetherspoons, TGI Fridays, British Sugar and David Lloyd Leisure.
 
 Development centres around, but is not limited to, the typical LAMP stack to deliver popular websites which generate revenue for our clients.
 
