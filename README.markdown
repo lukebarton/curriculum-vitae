@@ -14,15 +14,15 @@ I am a bright, enthusiastic and capable software developer with more than five y
 
 * Zend Certified Engineer PHP5
 
-* PHP 5.3 : OOP, Zend Framework, Symfony2
+* PHP 5.3: Zend Framework, Symfony2
 
-* Web front end: (X)HTML, CSS, JavaScript (including jQuery), Ajax, XML
+* Web front end: HTML 5, CSS 3, JavaScript, jQuery
 
 * Database: MySQL, MongoDB
 
-* Some experience of: Ruby, Python, Node, CouchDB, Dojo
+* Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ
 
-* Other: PHPUnit, Test Driven Development, SVN, Git, Web Accessibility Standards, SEO 
+* Other: Unit testing, TDD, SVN, Git
 
 Career History
 --------------
