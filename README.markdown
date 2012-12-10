@@ -8,7 +8,7 @@ luke [at] lukebarton.co.uk_
 Summary
 -------
 
-I am a bright, enthusiastic and capable software developer with more than five years experience creating web applications. I am highly skilled at both website and application development with broader experience of solutions design, project delivery and working with clients. I aspire to ‘doing things properly‘, bringing both quality and simplicity into what I develop.
+I am a bright, enthusiastic and capable software developer with more than five years experience creating web applications. I am highly skilled at both website and application development with broader experience of solutions design, project delivery and working with clients. I aspire to practice ‘doing things properly‘, bringing both quality and simplicity into everything I develop.
 
 **Key Skills**
 
