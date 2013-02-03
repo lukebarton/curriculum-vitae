@@ -8,7 +8,7 @@ luke [at] lukebarton.co.uk_
 Summary
 -------
 
-I am a bright, enthusiastic and capable software developer with more than five years experience creating web applications. I am highly skilled at both website and application development with broader experience of solutions design, project delivery and working with clients. I aspire to practice ‘doing things properly‘, bringing both quality and simplicity to everything I develop.
+I am a bright, enthusiastic and capable software engineer with more than five years experience creating web applications. I am highly skilled at both website and application development with a wider experience of solutions design, project delivery and working with clients. I'm very adaptable and love nothing more than working outside of my existing skill set and experience - new languages and technologies excite me.
 
 **Key Skills**
 
@@ -16,11 +16,13 @@ I am a bright, enthusiastic and capable software developer with more than five y
 
 * PHP 5.3: Zend Framework, Symfony2
 
-* Web front end: HTML 5, CSS 3, JavaScript, jQuery
+* Web front end: HTML5, CSS3, JavaScript, jQuery, Backbone.js
 
 * Database: MySQL, MongoDB
 
 * Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ
+
+* Interested in: High scalability, real-time data and systems architecture
 
 * Other: Unit testing, TDD, SVN, Git
 
@@ -31,13 +33,13 @@ Career History
 
 _December 2010 – Present_
 
-Evolving delivers web and online marketing solutions based on their own in-house systems for the likes of J D Wetherspoons, TGI Fridays, British Sugar and David Lloyd Leisure.
+Evolving delivers award-winning websites and applications for companies such as J D Wetherspoons, TGI Fridays, YO! Sushi and David Lloyd Leisure.
 
-Development centres around, but is not limited to, the typical LAMP stack to deliver popular websites which generate revenue for our clients.
+Development centres around, but is not limited to, the typical LAMP stack to deliver popular websites which generate revenue for Evolving's clients. I've architected, engineered and advised on several systems which include components such as RESTful APIs, message queues and single sign ons.
 
-Amongst other technical solutions, I have overseen the transition from Subversion to Git version control systems as well as the adoption of a revised workflow which allows us to robustly deploy changes with reduced effort - enabling Evolving to meet client requirements of up to 20 releases per day with an audit trail.
+I oversaw the transition from Subversion to Git version control systems as well as the adoption of a revised development workflow which allows Evolving to meet client requirements of over 20 code deployments per day with full audit trail.
 
-As a firm believer in keeping up to date with the software development industry I continue to encourage and educate other developers within the company. I enjoy presenting and it is a skill which I jump at the opportunity to practice and improve.
+As a firm believer in keeping up to date with the software development industry I encourage and educate other developers within the company. I also enjoy presenting which is a skill that I relish the opportunity to practice and improve upon.
 
 ---
 
@@ -49,7 +51,7 @@ Guardian Star are a start-up aiming to offer a unique web and mobile based suppo
 
 As technical director I was responsible for the technical operations, from web application development to the provision of phone systems. 
 
-Technically, the web application is built with PHP5 and uses several external APIs; an SMS gateway for two-way SMS, an Email dispatching service for rejection monitoring, a marketing and newsletter management service and PayPal for subscription based payment. It leverages the Zend Framework and currently persists in a primarily MongoDB-based storage.
+Technically, the web application was built with PHP5 and uses several external APIs; an SMS gateway for two-way SMS, an Email dispatching service for rejection monitoring, a marketing and newsletter management service and PayPal integration for subscription based payment. It leveraged the Zend Framework and persisted via a primarily MongoDB-based storage.
 
 ---
 
@@ -59,7 +61,7 @@ _July 2009 – June 2010_
 
 i3 Media are a digital agency delivering large volume websites and ecommerce solutions to many high profile clients such as Autoglass and The Ideal Home Show, including websites serving over quarter of a million page views a day, shops taking over £100,000 a year and live auction websites. 
 
-Primarily working on an in-house CMS & Ecommerce platform, which is used to deliver standardised solutions, I worked at all levels from database through application to front end with PHP5, Zend Framework, JavaScript and jQuery.
+Primarily working on an in-house CMS & Ecommerce platform, which was used to deliver standardised solutions, I worked at all levels from database through application to front end with PHP5, Zend Framework, JavaScript and jQuery.
 
 ---
 
