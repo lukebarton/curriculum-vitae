@@ -33,7 +33,7 @@ Career History
 
 _December 2010 – Present_
 
-Evolving delivers award-winning websites and applications for companies such as J D Wetherspoons, TGI Fridays, YO! Sushi and David Lloyd Leisure.
+Evolving delivers award-winning websites and applications for companies such as J D Wetherspoon, TGI Fridays, YO! Sushi and David Lloyd Leisure.
 
 Development centres around, but is not limited to, the typical LAMP stack to deliver popular websites which generate revenue for Evolving's clients. I've architected, engineered and advised on several systems which include components such as RESTful APIs, message queues and single sign ons.
 
