@@ -29,7 +29,7 @@ I am a bright, enthusiastic and capable software engineer with more than five ye
 Career Future
 -------------
 
-I am looking for contracting positions but will consider full time positions with a software development company which has interesting projects and an attractive culture.
+I am looking for contracts but will consider full time positions with a software development company which has interesting projects and an attractive culture.
 
 Career History
 --------------
