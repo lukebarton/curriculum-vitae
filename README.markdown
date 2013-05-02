@@ -20,18 +20,37 @@ I am a bright, enthusiastic and capable software engineer with more than five ye
 
 * Database: MySQL, MongoDB
 
-* Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ
+* Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ, Neo4j
 
 * Interested in: High scalability, real-time data and systems architecture
 
-* Other: Unit testing, TDD, SVN, Git
+* Other: Unit testing, TDD, SVN, Git, SaltStack
+
+Career Future
+-------------
+
+I am looking for contracting positions but will consider full time positions with a software development company which has interesting projects and an attractive culture.
 
 Career History
 --------------
 
+**Senior Developer at Disruptech – Milton Keynes**
+
+_January 2013 – Present_
+
+Disruptech is web startup which is currently producing a new social network website based on Symfony2 using scrum methodology.
+
+Alongside another senior developer, I'm leading development of both front end and back end of the application. As well as evolving and developing the product, I'm providing guidance to 2 junior developers and steering the company towards it's goal of being a cutting-edge software development house in terms of operations, culture and practices.
+
+In addition to the typical LAMP stack, I'm currently working with Symfony2, Doctrine 2 and Neo4j. I've implemented SaltStack, which allows us to automatically configure and remotely manage web servers for production as well as development environments, making it easier for us to use a service such as Amazon EC2 to provide additional load capacity for an application.
+
+I am also responsible for several dedicated and virtual servers currently across different providers and have overseen the migration from several DNS providers into Amazon Route 53.
+
+---
+
 **Web Developer at Evolving Media Limited – Bedford**
 
-_December 2010 – Present_
+_December 2010 – January 2013_
 
 Evolving delivers award-winning websites and applications for companies such as J D Wetherspoon, TGI Fridays, YO! Sushi and David Lloyd Leisure.
 
