@@ -42,7 +42,7 @@ Disruptech is web startup which is currently producing a new social network webs
 
 Alongside another senior developer, I'm leading development of both front end and back end of the application. As well as evolving and developing the product, I'm providing guidance to 2 junior developers and steering the company towards it's goal of being a cutting-edge software development house in terms of operations, culture and practices.
 
-In addition to the typical LAMP stack, I'm currently working with Symfony2, Doctrine 2 and Neo4j. I've implemented SaltStack, which allows us to automatically configure and remotely manage web servers for production as well as development environments, making it easier for us to use a service such as Amazon EC2 to provide additional load capacity for an application.
+In addition to the typical LAMP stack, I'm currently working with Symfony2, Doctrine 2 and Neo4j. I've implemented SaltStack, which allows us to automatically configure and remotely manage production and development web servers, making it easier for us to use a service such as Amazon EC2 to quickly provide additional load capacity for an application.
 
 I am also responsible for several dedicated and virtual servers currently across different providers and have overseen the migration from several DNS providers into Amazon Route 53.
 
