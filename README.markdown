@@ -149,6 +149,7 @@ Ongoing self training, including taking time out from work (2006-2007) to study 
 **Education**
 
 AS Level: Computing, Psychology & Politics
+
 GCSE: Including English & Mathematics
 
 
