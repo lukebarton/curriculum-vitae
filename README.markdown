@@ -5,10 +5,10 @@ _2 Pipit Rise, Bedford, Bedfordshire, MK41 7JS
 07931525866  
 luke [at] lukebarton.co.uk_
 
-Summary
+Professional Profile
 -------
 
-I am a bright, enthusiastic and capable software engineer with more than five years experience creating web applications. I am highly skilled at both website and application development with a wider experience of solutions design, project delivery and working with clients. I'm very adaptable and love nothing more than working outside of my existing skill set and experience - new languages and technologies excite me.
+A dedicated and driven professional with extensive experience gained within key software engineering and development positions, working to senior level within a range of start-ups and established companies. Focused upon delivering work of the highest professional standards to ensure the delivery of all projects to deadline, specification and elevated quality levels. Demonstrates an excellent knowledge of website and application development, with strong team leadership skills, an advanced knowledge of the full development lifecycle and outstanding client skills. Possesses excellent business communication skills and can consult with professionalism at all levels.
 
 **Key Skills**
 
@@ -29,117 +29,127 @@ I am a bright, enthusiastic and capable software engineer with more than five ye
 Career Future
 -------------
 
-I am looking for contracts but will consider full time positions with a software development company which has interesting projects and an attractive culture.
+I am looking for contracts. I would only consider permanent positions with the very best software development companies which have interesting projects and attractive cultures.
 
 Career History
 --------------
 
 **Senior Developer at Disruptech – Milton Keynes**
 
-_January 2013 – Present_
+_2013 – Present_
 
-Disruptech is web startup which is currently producing a new social network website based on Symfony2 using scrum methodology.
+* Maintaining joint accountability with one other senior developer for the development of the front and back end of a new social network website based on Symfony 2 using scrum methodology
 
-Alongside another senior developer, I'm leading development of both front end and back end of the application. As well as evolving and developing the product, I'm providing guidance to 2 junior developers and steering the company towards it's goal of being a cutting-edge software development house in terms of operations, culture and practices.
+* Tasked with the direction and supervision of two junior developers, guiding them in their daily duties to ensure the delivery of an optimised product
 
-In addition to the typical LAMP stack, I'm currently working with Symfony2, Doctrine 2 and Neo4j. I've implemented SaltStack, which allows us to automatically configure and remotely manage production and development web servers, making it easier for us to use a service such as Amazon EC2 to quickly provide additional load capacity for an application.
+* Playing a critical role in the business, leading development activities to assist the start-up company in its objective of becoming a first-rate development house
 
-I am also responsible for several dedicated and virtual servers currently across different providers and have overseen the migration from several DNS providers into Amazon Route 53.
+* Maintaining overall accountability for the management of multiple dedicated and virtual servers, with senior responsibility for the coordination of the migration from DNS providers to Amazon Route 53
+
+* Key technologies utilised within the role include:
+
+ * Symfony2, Doctrine 2, Neo4j and SaltStack (used for the automatic configuration and remote management of web servers)
 
 ---
 
 **Web Developer at Evolving Media Limited – Bedford**
 
-_December 2010 – January 2013_
+_2010 – 2013_
 
-Evolving delivers award-winning websites and applications for companies such as J D Wetherspoon, TGI Fridays, YO! Sushi and David Lloyd Leisure.
+* Played a pivotal role in the development of websites for a company that provides development services to high profile clients including JD Wetherspoon, TGI Friday's, Yo! Sushi and David Lloyd Leisure
 
-Development centres around, but is not limited to, the typical LAMP stack to deliver popular websites which generate revenue for Evolving's clients. I've architected, engineered and advised on several systems which include components such as RESTful APIs, message queues and single sign ons.
+* Tasked with the design, development and delivery of a broad range of systems, including RESTful APIs, message queues and single sign-on components
 
-I oversaw the transition from Subversion to Git version control systems as well as the adoption of a revised development workflow which allows Evolving to meet client requirements of over 20 code deployments per day with full audit trail.
+* Driving standards within the business through the management of an initiative to migrate from Subversion to Git version control systems, including the implementation of a new development workflow
 
-As a firm believer in keeping up to date with the software development industry I encourage and educate other developers within the company. I also enjoy presenting which is a skill that I relish the opportunity to practice and improve upon.
+* Facilitating internal development activities in the above project, enabling the company to deliver 20 code deployments per day within a fast-paced, multi-priority environment
+
+* Played a key role in personnel development, training developers to ensure they achieved their personal potential
 
 ---
 
 **Technical Director at Guardian Star Limited – Peterborough**
 
-_June 2010 – October 2011_
+_2010 – 2011_
 
-Guardian Star are a start-up aiming to offer a unique web and mobile based support product for those undertaking activities which put them at risk, such as dating or outdoor pursuits such as hiking, climbing or mountain biking. The service requires users to register their itinerary with the service so that in the event something untoward occurs; Guardian Star has the information at their fingertips to provide to the relevant emergency services. As a key part of the service, it contacts the user to ensure their safety after their event.
+* Acting as Technical Director within a start-up operation developing a web and mobile based support product for clients undertaking high risk physical activities and adventure sports
 
-As technical director I was responsible for the technical operations, from web application development to the provision of phone systems. 
+* Innovating a new system to enable the upload of client itineraries to the service, facilitate swift communications with emergency services and contact clients to ensure their safety
 
-Technically, the web application was built with PHP5 and uses several external APIs; an SMS gateway for two-way SMS, an Email dispatching service for rejection monitoring, a marketing and newsletter management service and PayPal integration for subscription based payment. It leveraged the Zend Framework and persisted via a primarily MongoDB-based storage.
+* Retaining overall accountability for the technical function, including the development of the web application and the creation of the telecommunications system
+
+* Key technologies utilised within the system included:
+
+ * The Zend Framework, MongoDB storage, PHP5 (for web application development) external APIs, an SMS gateway (for two-way SMS), an email dispatch service, a marketing and newsletter management service and PayPal (for client subscriptions)
 
 ---
 
 **Web Developer for i3 Media – Peterborough**
 
-_July 2009 – June 2010_
+_2009 – 2010_
 
-i3 Media are a digital agency delivering large volume websites and ecommerce solutions to many high profile clients such as Autoglass and The Ideal Home Show, including websites serving over quarter of a million page views a day, shops taking over £100,000 a year and live auction websites. 
+* Acting effectively in the role of Web Developer, responsible for the creation and delivery of websites and ecommerce solutions for major clients including Autoglass and the Ideal Home Show
 
-Primarily working on an in-house CMS & Ecommerce platform, which was used to deliver standardised solutions, I worked at all levels from database through application to front end with PHP5, Zend Framework, JavaScript and jQuery.
+* Working on critical client projects, including websites that serviced a total of +250,000 daily users and online retail stores with revenues of +100k per year
+
+* Integral to the ongoing success of a CMS and ecommerce platform used to deliver standardised technical solutions
+
+* Key technologies utilisied in the role included:
+
+ * PHP5, Zend Framework, JavaScript and jQuery
 
 ---
 
 **Software Engineer for Rabbitsoft Limited – Cambridge**
 
-_November 2008 – July 2009 - Red Herring Europe 100 winners in 2009._
+_2008 – 2009 - Red Herring Europe 100 winners in 2009_
 
-Rabbitsoft is a start up business in the process of developing an innovative enterprise business collaboration platform. This extranet application provides collaboration, communication and business applications through a ‘Web Operating System’ interface.
+* Performing a key role as a Software Engineer responsible for working on the development of a new enterprise business collaboration platform using a Web Operating System interface
 
-I was one of three developers responsible for the design and development of the application.  I was jointly responsible for the architectural design and development of several modules within the solution including cross-browser rendering of company organisational charts, front end theming and reusable user interface controls such as a custom “select” control which featured images, filter and keyboard navigation.
+* Developing a system that facilitates the workloads of business clients through an extranet application that enables collaboration, communication and multiple business application integration
 
-The front end was completely AJAX driven meaning that the business applications running on the platform are loaded asynchronously and described in XML and JavaScript. The configuration was interpreted by a client-side JavaScript interpreter building the GUI on the fly out of the available controls stack.  The application’s back end was built using PHP5 and MySQL to create a service oriented architecture (SOA) solution which exposed a set of services via a RESTful interface that responded in either XML or JSON.
+* Responsible for application design and development, including architectural module design covering cross-browser rendering of organisational charts, front end theming and reusable user interface controls
 
-Following the development of the application I was involved with testing, bug fixing and packaging. This also included working with an early adopter community providing user training and support.
+* Undertaking post-development quality assurance, covering all areas of test processes, bug fixing and packaging
 
-This role was hugely challenging and I gained extensive knowledge and experience of developing a large scale AJAX and LAMP application. 
+* Delivering a comprehensive service of support and training to an early adopter community involved in the pre-launch test processes
 
-Following the launch of the product the business focus moved towards sales and marketing and I decided to find a more secure role that would allow me to continue building upon my existing skills.
+* Developing an in-depth knowledge of the demands and requirements of working on a large-scale AJAX and LAMP application
+
+* Key technologies used in the role included:
+
+ * AJAX, XML, JavaScript, XML, JSON, PHP5 and MySQL
 
 ---
 
 **Web Developer for Design57 Limited – St Ives, Cambridgeshire**
 
-_February 2007 – November 2008_
+_2007 – 2008_
 
-Design57 provides web design, software development and hosting services to more than 100 clients.  Their service offerings range from small brochure websites through to fully managed property and product directory applications.
+* Initially employed in the role of Web Developer for a company focused upon the delivery of web design, software development and hosting services to a large (100+) client base
 
-I was the sole technical resource responsible for both the development of new solutions and supporting existing services.  I liaised with the clients and carried out business analysis to determine their requirements to gain agreement on scope and their expectations. Where appropriate I carried out solutions design and planning activities for the project.  
+* Maintaining overall accountability for new solution development and support activities, as the sole technical resource in the company
 
-I provided all technical support for live the websites working closely with both clients and third party suppliers. I dealt with fault resolution and managing change requests from clients, ensuring that revenue was generated for the business when appropriate.
+* Consulting directly with clients to analyse their unique project requirements, develop the project scope and ensure they were fully updated on project progress throughout the lifecycle
 
-The platform was purely LAMP (Linux, Apache, MySQL, PHP) and covered the full software development life cycle working with both PHP development and front-end technologies such as CSS, JavaScript and jQuery.
+* Leading technical support activities for all live websites, with additional accountability for issue resolution, change requests and third party supplier management
 
-Although challenged to some extent by the existing code base, I implemented reusable and structured object oriented modules that would provide future efficiency savings and improve maintainability.
+* Key technologies utilised in the role included:
 
-The responsibilities of this role were very broad and I welcomed the level of autonomy that it provided. It also allowed me to develop my skills beyond just technical development, enabling me to understand the broader business model, delivery through project management, commercial considerations and working closely with clients. 
-
-I thoroughly enjoyed working at Design57 and the opportunity it provided to me, however, as the business developed and the number of clients grew, I felt it was time to move on to a new challenge where I would gain more exposure to application development.
+ * Linux, Apache, MySQL and PHP (LAMP) for software development, in addition to front end technologies including CSS, JavaScript and jQuery
 
 ---
 
 **Self-training and development**
 
-_January 2006 – February 2007_
-
-Having been interested in programming as a hobbyist for several years I was fortunate enough to be able to take some time out during this period to develop my skills and knowledge of software development.  I used this time to gain a deep insight into the LAMP platform and getting to grips with object oriented design and software development best practice. During this time I developed small applications and websites on a voluntary basis to help gain real world experience.  
+Ongoing self training, including taking time out from work (2006-2007) to study the LAMP platform and object oriented design, while developing small applications and websites on a voluntary basis.
 
 ---
 
 **Education**
 
-Rutland College, Oakham - 2004-2005  
-Studied Computing, Psychology and Politics to A/S level.  
-Uppingham Community College - 1999-2004 – 10 GCSEs
+AS Level: Computing, Psychology & Politics
+GCSE: Including English & Mathematics
 
-* AA - Science (Double Award)
 
-* A - History
 
-* CC - English Language and Literature 
-
-* C – Maths
