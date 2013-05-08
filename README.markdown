@@ -22,9 +22,9 @@ A dedicated and driven professional with extensive experience gained within key 
 
 * Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ, Neo4j
 
-* Interested in: High scalability, real-time data and systems architecture
+* Other: Unit testing, TDD, SVN, Git, Bash, SaltStack
 
-* Other: Unit testing, TDD, SVN, Git, SaltStack
+* Interested in: High scalability, real-time data and systems architecture
 
 Career Future
 -------------
@@ -48,7 +48,7 @@ _2013 – Present_
 
 * Key technologies utilised within the role include:
 
- * Symfony2, Doctrine 2, Neo4j and SaltStack (used for the automatic configuration and remote management of web servers)
+ * Symfony2, Doctrine 2, Neo4j, AngularJS and SaltStack (used for the automatic configuration and remote management of web servers)
 
 ---
 
@@ -66,6 +66,10 @@ _2010 – 2013_
 
 * Played a key role in personnel development, training developers to ensure they achieved their personal potential
 
+* Key technologies utilised within the role include:
+
+ * Zend Framework, RabbitMQ, REST, SOAP and OAuth
+
 ---
 
 **Technical Director at Guardian Star Limited – Peterborough**
@@ -80,7 +84,7 @@ _2010 – 2011_
 
 * Key technologies utilised within the system included:
 
- * The Zend Framework, MongoDB storage, PHP5 (for web application development) external APIs, an SMS gateway (for two-way SMS), an email dispatch service, a marketing and newsletter management service and PayPal (for client subscriptions)
+ * Zend Framework, MongoDB, external APIs, an SMS gateway (for two-way SMS), an email send service, MailChimp API and PayPal (for client subscriptions)
 
 ---
 
@@ -93,10 +97,6 @@ _2009 – 2010_
 * Working on critical client projects, including websites that serviced a total of +250,000 daily users and online retail stores with revenues of +100k per year
 
 * Integral to the ongoing success of a CMS and ecommerce platform used to deliver standardised technical solutions
-
-* Key technologies utilisied in the role included:
-
- * PHP5, Zend Framework, JavaScript and jQuery
 
 ---
 
