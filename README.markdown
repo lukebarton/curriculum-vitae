@@ -40,9 +40,9 @@ _2013 – Present_
 
 * Maintaining joint accountability with one other senior developer for the development of the front and back end of a new social network website based on Symfony 2 using scrum methodology
 
-* Tasked with the direction and supervision of two junior developers, guiding them in their daily duties to ensure the delivery of an optimised product
-
 * Playing a critical role in the business, leading development activities to assist the start-up company in its objective of becoming a first-rate development house
+
+* Tasked with the direction and supervision of two junior developers, guiding them in their daily duties to ensure the delivery of an optimised product
 
 * Maintaining overall accountability for the management of multiple dedicated and virtual servers, with senior responsibility for the coordination of the migration from DNS providers to Amazon Route 53
 
@@ -118,7 +118,7 @@ _2008 – 2009 - Red Herring Europe 100 winners in 2009_
 
 * Key technologies used in the role included:
 
- * AJAX, XML, JavaScript, XML, JSON, PHP5 and MySQL
+ * AJAX, XML, JavaScript, XML and JSON
 
 ---
 
