@@ -31,7 +31,7 @@ a {
 
 #cv > header .person {
     float: left;
-    width: 600px;
+    width: 500px;
 }
 #cv > header .person img.avatar {
     display: block;
@@ -61,7 +61,7 @@ a {
 }
 
 #cv > header .contact ul {
-    margin: 1.2em;
+    margin: 1.2em 1.2em 0 1.2em;
     padding: 0;
  }
 #cv > header .contact ul li {
