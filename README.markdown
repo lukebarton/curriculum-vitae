@@ -34,7 +34,7 @@ I am looking for contracts. I would only consider permanent positions with the v
 Career History
 --------------
 
-**Project Lead at Wonga – London**
+**Project Lead (Contract) at Wonga – London**
 
 _2013 - 2014_
 
@@ -50,7 +50,7 @@ _2013 - 2014_
 
 ---
 
-**R&D Engineer at Wonga – London**
+**R&D Engineer (Contract) at Wonga – London**
 
 _2013_
 
