@@ -38,11 +38,11 @@ Career History
 
 _2013 - 2014_
 
-* Oversaw the full stack technical delivery of a cross-platform mobile project which also included leading the front end team and acting as scrum master.
+* Oversaw the full stack technical delivery of a cross-platform mobile project which also included leading the front end team and acting as scrum master
 
-* Took part in front end development and the development of RESTful APIs written in PHP using Symfony2.
+* Took part in front end development and the development of RESTful APIs written in PHP using Symfony2
 
-* Responsible for the technical delivery of the app, including testing and continuous integration, procuring the necessary infrastructure, managing stakeholders and forming feature requirements for systems owned by other teams.
+* Responsible for the technical delivery of the app, including testing and continuous integration, procuring the necessary infrastructure, managing stakeholders and forming feature requirements for systems owned by other teams
 
 * Key technologies utilised within the role include:
 
@@ -54,11 +54,11 @@ _2013 - 2014_
 
 _2013_
 
-* Primary developer on a prototype cross-platform finance mobile app using Angular.js and Scala.
+* Primary developer on a prototype cross-platform finance mobile app using Angular.js and Scala
 
-* Involved transforming evolving business and user requirements into a MVP, from delivery of the application to having input on product direction.
+* Involved transforming evolving business and user requirements into a MVP, from delivery of the application to having input on product direction
  
-* Performed face-to-face interviews with target users to validate the product, it's features and the user experience.
+* Performed face-to-face interviews with target users to validate the product, it's features and the user experience
 
 * Key technologies utilised within the role include:
 
