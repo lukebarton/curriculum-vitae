@@ -34,17 +34,27 @@ I am looking for contracts. I would only consider permanent positions with the v
 Career History
 --------------
 
-**Contractor at Wonga Group Limited – London**
+**Project Lead at Wonga – London**
 
 _2013 - 2014_
 
-* 12 months overseeing the full stack technical delivery of a cross-platform mobile project which also included leading the front end team and acting as scrum master.
+* Oversaw the full stack technical delivery of a cross-platform mobile project which also included leading the front end team and acting as scrum master.
 
 * Took part in front end development and the development of RESTful APIs written in PHP using Symfony2.
 
 * Responsible for the technical delivery of the app, including testing and continuous integration, procuring the necessary infrastructure, managing stakeholders and forming feature requirements for systems owned by other teams.
 
-* 3 months as the primary developer on a prototype cross-platform finance mobile app using Angular.js and Scala.
+* Key technologies utilised within the role include:
+
+ * Angular.js, Symfony2, Jenkins
+
+---
+
+**R&D Engineer at Wonga – London**
+
+_2013_
+
+* Primary developer on a prototype cross-platform finance mobile app using Angular.js and Scala.
 
 * Involved transforming evolving business and user requirements into a MVP, from delivery of the application to having input on product direction.
  
@@ -52,7 +62,7 @@ _2013 - 2014_
 
 * Key technologies utilised within the role include:
 
- * Angular.js, Symfony2, Jenkins
+ * Angular.js, Scala, Jenkins
  
  ---
 
