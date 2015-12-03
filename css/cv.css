@@ -1,0 +1,178 @@
+html {
+    background-color: #222;
+    padding: 50px 0;
+    font-family: 'Droid Sans', sans-serif;
+    /* font-family: 'Droid Serif', serif; */
+    color: #333;
+}
+
+body {
+    font-size: 0.8em;
+    line-height: 1.4;
+}
+a {
+    color: #06A;
+}
+
+#cv {
+    border-top: 15px solid #efd816;
+    border-bottom: 15px solid #efd816;
+    background-color: #FFF;
+    width: 900px;
+    margin: auto;
+}
+
+#cv > header {
+    background-color: #EEE;
+    border-bottom: 1px solid #DDD;
+    padding: 30px 40px;
+    overflow: auto;
+}
+
+#cv > header .person {
+    float: left;
+    width: 500px;
+}
+#cv > header .person img.avatar {
+    display: block;
+    float: left;
+    padding: 10px;
+    background-color: #FFF;
+    border: 1px solid #DDD;
+    margin-right: 25px;
+}
+#cv > header .person h1 {
+    font-size: 3.6em;
+    margin-top: 0.3em;
+    margin-bottom: 0;
+    line-height: 1;
+}
+#cv > header .person h2 {
+    margin: 0;
+}
+#cv > header .person .location {
+    font-size: 1.2em;
+}
+
+
+#cv > header .contact {
+    float: right;
+    clear: right;
+}
+
+#cv > header .contact ul {
+    margin: 1.2em 1.2em 0 1.2em;
+    padding: 0;
+ }
+#cv > header .contact ul li {
+    font-size: 1.2em;
+    list-style: none;
+    line-height: 2;
+    text-align: right;
+}
+#cv > header .contact .buttons {
+}
+#cv > header .contact .buttons a {
+    font-size: 1.7em;
+    color: #222;
+    text-decoration: none;
+}
+
+#cv > header .contact .buttons a.facebook {
+     color: #3B5998;
+}
+#cv > header .contact .buttons a.linkedin {
+    color: #0073B2;
+}
+#cv > header .contact .buttons a.github {
+    color: #000;
+}
+
+#cv > header .contact .buttons a.twitter {
+    color: #00AFEF;
+}
+#cv > header .contact .buttons a:hover {
+    color: #444;
+}
+
+#cv > dl:first-of-type {
+    border-top: 0;
+}
+
+#cv > dl {
+    margin: 0 50px;
+    padding: 30px 0;
+    border-top: 1px solid #DDD;
+    overflow: auto;
+}
+
+#cv > dl > dt {
+    float: left;
+    width: 250px;
+    margin-top: 0;
+    font-size: 1.7em;
+    font-family: 'Droid Serif', serif;
+    font-weight: normal;
+    font-style: italic;
+}
+
+#cv > dl > dd {
+    width: 550px;
+    margin: 0;
+    float: left;
+}
+#cv > dl > dd p {
+    margin-top: 0;
+
+    text-align: justify;
+}
+
+#cv > dl > dd > dl {
+    border-top: 1px solid #DDD;
+    padding: 30px 0;
+    margin: 0;
+}
+
+#cv > dl > dd > dl:first-of-type {
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+
+}
+#cv > dl > dd > dl dt {
+    overflow: auto;
+    margin-bottom: 20px;
+}
+#cv > dl > dd > dl dt .heading {
+    float: left;
+    clear: left;
+    font-size: 2em;
+    font-family: 'Droid Serif', serif;
+    font-weight: normal;
+    color: #0081D6;
+    line-height: 1;
+}
+#cv > dl > dd > dl > dt .subheading {
+    float: left;
+    clear: left;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+#cv > dl > dd > dl > dt .sidenote {
+    background-color: #EEE;
+    color: #555;
+    float: right;
+    padding: 6px 12px;
+}
+
+#cv > dl > dd > dl > dd {
+    margin: 0;
+}
+#cv > dl > dd > dl > dd ul {
+    padding-left: 17px;
+}
+#cv > dl > dd > dl > dd li {
+    text-align: justify;
+    margin-bottom: 10px;
+}
