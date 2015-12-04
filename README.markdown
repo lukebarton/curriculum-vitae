@@ -14,15 +14,15 @@ A dedicated and driven professional with extensive experience gained within key 
 
 * Zend Certified Engineer PHP5
 
-* PHP 5.3: Zend Framework, Symfony2
+* PHP 5.6: Zend Framework, Symfony2
 
-* Web front end: HTML5, CSS3, JavaScript, jQuery, Backbone.js
+* Web front end: HTML5, CSS3, JavaScript, Angular.js, Backbone.js
 
-* Database: MySQL, MongoDB
+* Database: MySQL, Postgres, MongoDB
 
 * Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ, Neo4j
 
-* Other: Unit testing, TDD, SVN, Git, Bash, SaltStack
+* Other: Unit testing, TDD, SVN, Git, Bash, Docker, Ansible, SaltStack
 
 * Interested in: High scalability, real-time data and systems architecture
 
@@ -33,6 +33,21 @@ I am looking for contracts. I would only consider permanent positions with the v
 
 Career History
 --------------
+**Full Stack Developer (Contract) at Office of the Public Guardian - Ministry of Justice (Transform UK)
+
+_2015_
+
+* Full stack developer in a scrum team of 10, developing and supporting a complex internal case management product in daily use within the organisation by multiple teams including case workers and call center staff
+
+* Steered the project toward better team process, RESTful API design and development tooling
+
+* Made a measured improvement to build processes, streamlining Docker builds and improving the efficiency of the Jenkins pipelines resulting in a noticable improvment to build times
+
+* Key technologies utilised within the role include:
+
+ * Zend Framework 2, Angular.js, Docker
+
+---
 
 **Project Lead (Contract) at Wonga – London**
 
