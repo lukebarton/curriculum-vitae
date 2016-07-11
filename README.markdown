@@ -12,17 +12,23 @@ A dedicated and driven professional with extensive experience gained within key 
 
 **Key Skills**
 
+* Leader of teams
+
+* End-to-end project delivery
+
 * Zend Certified Engineer PHP5
 
 * PHP 5.6: Zend Framework, Symfony2
 
-* Web front end: HTML5, CSS3, JavaScript, Angular.js, Backbone.js
+* Node.js
+
+* Web front end: HTML5, CSS3, JavaScript, TypeScript Angular, React, Redux
 
 * Database: MySQL, Postgres, MongoDB
 
-* Some experience of: Ruby, Python, Node.js, CouchDB, RabbitMQ, Neo4j
+* Some experience of: Ruby, Python, CouchDB, RabbitMQ, Neo4j
 
-* Other: Unit testing, TDD, SVN, Git, Bash, Docker, Ansible, SaltStack
+* Other: Unit testing, TDD, SVN, Git, Bash, Docker, Ansible, SaltStack, AWS
 
 * Interested in: High scalability, real-time data and systems architecture
 
@@ -33,7 +39,36 @@ I am looking for contracts. I would only consider permanent positions with the v
 
 Career History
 --------------
-**Full Stack Developer (Contract) at Office of the Public Guardian - Ministry of Justice (Transform UK)
+
+**Software Engineer (Contract) at DEPMU - Home Office Digital**
+
+_2016_
+
+* Member of a team of 10 developing a GDS-assessed tool to help staff manage bed space within the immigration system
+
+* Hands-on development of the software, pair programming with members of the team on various features
+
+* Identified and resolved issues relating to the agile software development process, improving the quality of team output and stakeholder relations
+
+* Key technologies utilised within the role include: Node.js, Docker
+
+---
+
+**Software Engineer (Contract) at Border Force - Home Office Digital**
+
+_2016_
+
+* Participated in the development and support of GDS-assessed software which calculates Border Force staffing levels at airports using real-time arrival data to keep passenger wait times at Passport Control within a defined SLA
+
+* Highlighted critical issues affecting the project's ability to deliver value
+
+* Specified and pair programmed on a programme of work to extend on and improve existing functionality
+
+* Key technologies utilised within the role include: PHP5, Symfony2
+
+---
+
+**Full Stack Developer (Contract) at Office of the Public Guardian - Ministry of Justice (Transform UK)**
 
 _2015_
 
