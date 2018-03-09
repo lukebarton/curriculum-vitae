@@ -28,7 +28,7 @@ A dedicated and driven professional with extensive experience gained within key 
 
 * Some experience of: Ruby, Python, CouchDB, RabbitMQ, Neo4j
 
-* Other: Unit testing, TDD, SVN, Git, Bash, Docker, Ansible, SaltStack, AWS
+* Other: Unit testing, TDD, SVN, Git, Bash, Docker, Terraform, Ansible, SaltStack, AWS
 
 * Interested in: High scalability, real-time data and systems architecture
 
@@ -39,6 +39,22 @@ I am looking for contracts. I would only consider permanent positions with the v
 
 Career History
 --------------
+
+**Software Engineer (Contract) at Local Heroes - British Gas / Centrica**
+
+_2017_
+
+* Designed and implemented a move from existing ad-hoc AWS infrastructure to Terraform-provisioned ECS clusters with Docker, which enabled the team to go from fortnightly releases to multiple releases per day and new team members being able to deploy code on their first day
+
+* Simplified existing architecture by seperating marketing and application concerns allowing both teams to move more quickly, and especially the marketing side, with more autonomy.
+
+* Introduced Graphite & Grafana-based monitoring on key application and business metrics, giving the business immediate insight into performance of application and business metrics
+
+* Helped the business tackle some operational and cultural problems through challenging values, giving insightful presentations, introducing new styles of working and facilitating business-wide workshops for the benefit of all
+
+* Key technologies utilised within the role include: Node.js, Terraform, Docker, AWS
+
+---
 
 **Software Engineer (Contract) at DEPMU - Home Office Digital**
 
